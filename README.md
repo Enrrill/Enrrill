@@ -62,12 +62,7 @@ developer = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Enrrill&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8" />
-</p>
-
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Enrrill&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=a855f7&icon_color=7c3aed&text_color=c084fc&ring_color=6d28d9&cache_seconds=86400" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enrrill&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=a855f7&text_color=c084fc&cache_seconds=86400" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Enrrill&theme=tokyo-night&hide_border=true&bg_color=0d0d1a&color=c084fc&line=7c3aed&point=a855f7&area=true&area_color=6d28d9" />
 </p>
 
 <p align="center">
