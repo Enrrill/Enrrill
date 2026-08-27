@@ -62,8 +62,12 @@ developer = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Enrrill&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=a855f7&icon_color=7c3aed&text_color=c084fc&ring_color=6d28d9" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enrrill&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=a855f7&text_color=c084fc" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Enrrill&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8" />
+</p>
+
+<p align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Enrrill&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=a855f7&icon_color=7c3aed&text_color=c084fc&ring_color=6d28d9&cache_seconds=86400" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enrrill&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=a855f7&text_color=c084fc&cache_seconds=86400" />
 </p>
 
 <p align="center">
@@ -81,7 +85,7 @@ developer = {
       <h3 align="center">🌐 Project One</h3>
       <p align="center">
         <a href="https://github.com/Enrrill/project-one" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Enrrill&repo=project-one&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=a855f7&text_color=c084fc&icon_color=7c3aed" />
+          <img src="https://img.shields.io/badge/View%20on%20GitHub-7c3aed?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
       <p align="center">
@@ -98,7 +102,7 @@ developer = {
       <h3 align="center">⚡ Project Two</h3>
       <p align="center">
         <a href="https://github.com/Enrrill/project-two" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Enrrill&repo=project-two&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=a855f7&text_color=c084fc&icon_color=7c3aed" />
+          <img src="https://img.shields.io/badge/View%20on%20GitHub-7c3aed?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
       <p align="center">
@@ -117,7 +121,7 @@ developer = {
       <h3 align="center">🧩 Project Three</h3>
       <p align="center">
         <a href="https://github.com/Enrrill/project-three" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Enrrill&repo=project-three&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=a855f7&text_color=c084fc&icon_color=7c3aed" />
+          <img src="https://img.shields.io/badge/View%20on%20GitHub-7c3aed?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
       <p align="center">
@@ -134,7 +138,7 @@ developer = {
       <h3 align="center">🔮 Project Four</h3>
       <p align="center">
         <a href="https://github.com/Enrrill/project-four" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Enrrill&repo=project-four&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=a855f7&text_color=c084fc&icon_color=7c3aed" />
+          <img src="https://img.shields.io/badge/View%20on%20GitHub-7c3aed?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
       <p align="center">
