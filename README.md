@@ -77,19 +77,20 @@ developer = {
   <tr>
     <!-- Project 1 -->
     <td width="50%" valign="top">
-      <h3 align="center">🌐 Project One</h3>
+      <h3 align="center">📦 StockNow — Inventario CRUD</h3>
       <p align="center">
-        <a href="https://github.com/Enrrill/project-one" target="_blank">
+        <a href="https://github.com/Enrrill/Inventario-Crud" target="_blank">
           <img src="https://img.shields.io/badge/View%20on%20GitHub-7c3aed?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
       <p align="center">
-        A brief description of what this project does and the problem it solves. Built with modern technologies.
+        Sistema de gestión de inventario con movimientos en lote, roles restringidos, reportes CSV/PDF/XLSX y auditoría por lotes. Laravel + Inertia React, 179 tests.
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Laravel-13-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react&logoColor=black"/>
         <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PHP-8.3-777BB4?style=flat-square&logo=php&logoColor=white"/>
       </p>
     </td>
     <!-- Project 2 -->
