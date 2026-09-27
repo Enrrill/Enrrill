@@ -23,7 +23,7 @@ developer = {
     "stack":      ["Python", "FastAPI", "Django", "React", "Next.js", "PostgreSQL"],
     "currently":  "Building cool projects 🔨",
     "learning":   "Always something new ✨",
-    "contact":    "your.email@example.com"
+    "contact":    "enrrill2212@gmail.com"
 }
 ```
 
